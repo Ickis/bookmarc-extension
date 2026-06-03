@@ -1,7 +1,12 @@
 {
   "addons": {
     "addon@bookmarc.io": {
-      "updates": []
+      "updates": [
+        {
+          "version": "0.1.0",
+          "update_link": "https://github.com/Ickis/bookmarc/releases/download/v0.1.0/bookmarc-extension-firefox-v0.1.0.zip"
+        }
+      ]
     }
   }
 }
