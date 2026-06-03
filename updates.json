@@ -3,16 +3,8 @@
     "addon@bookmarc.io": {
       "updates": [
         {
-          "version": "0.1.0",
-          "update_link": "https://github.com/Ickis/bookmarc/releases/download/v0.1.0/bookmarc-extension-firefox-v0.1.0.zip"
-        },
-        {
-          "version": "0.1.1",
-          "update_link": "https://github.com/Ickis/bookmarc/releases/download/v0.1.1/bookmarc-extension-firefox-v0.1.1.zip"
-        },
-        {
           "version": "0.1.2",
-          "update_link": "https://github.com/Ickis/bookmarc/releases/download/v0.1.2/bookmarc-extension-firefox-v0.1.2.zip"
+          "update_link": "https://addons.mozilla.org/firefox/downloads/file/4835152/35af34cb54f34b9db3f1-0.1.2.xpi"
         }
       ]
     }
