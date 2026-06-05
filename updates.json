@@ -4,7 +4,7 @@
       "updates": [
         {
           "version": "0.1.2",
-          "update_link": "https://addons.mozilla.org/firefox/downloads/file/4835152/35af34cb54f34b9db3f1-0.1.2.xpi"
+          "update_link": "https://raw.githubusercontent.com/Ickis/bookmarc-extension/master/releases/firefox/35af34cb54f34b9db3f1-0.1.2.xpi"
         }
       ]
     }
