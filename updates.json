@@ -17,6 +17,10 @@
         {
           "version": "0.3.1",
           "update_link": "https://raw.githubusercontent.com/Ickis/bookmarc-extension/master/releases/firefox/35af34cb54f34b9db3f1-0.3.1.xpi"
+        },
+        {
+          "version": "0.5.0",
+          "update_link": "https://raw.githubusercontent.com/Ickis/bookmarc-extension/master/releases/firefox/35af34cb54f34b9db3f1-0.5.0.xpi"
         }
       ]
     }
